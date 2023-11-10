@@ -30,7 +30,7 @@ body{
 }
 .details .text{
     margin-top: 30px;
-    font-size: 20px;
+    font-size: 35px;
     color:var(--white);
     text-align: center;
 }
@@ -329,6 +329,12 @@ h2{
     }
     h2{
         margin-top: 35px;
+    }
+
+    .details .text{
+
+        font-size: 20px;
+        
     }
     
 
